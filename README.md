@@ -53,11 +53,9 @@ module.exports = {
 1. Clone the repository
 2. Install dependencies
 3. Create a configuration file
-
-Create a file named config.js in the root directory.
-Use the sample structure above and fill in your credentials.
-
-4. Run the script
+     - Create a file named config.js in the root directory.
+     - Use the sample structure above and fill in your credentials.
+5. Run the script
 ``
 npm run start
 ``
