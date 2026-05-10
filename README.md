@@ -52,7 +52,6 @@ module.exports = {
 ## Installation Steps
 1. Clone the repository
 2. Install dependencies
-(If required — skip if none are used)
 3. Create a configuration file
 
 Create a file named config.js in the root directory.
